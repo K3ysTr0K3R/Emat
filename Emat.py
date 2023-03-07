@@ -24,7 +24,7 @@ def banner():
 	print("")
 	print(f"{YELLOW}[{BLUE}!!!{YELLOW}] {BLUE}Tool-Name {YELLOW}: {GREEN}Emat")
 	print(f"{YELLOW}[{BLUE}!!!{YELLOW}] {BLUE}Github    {YELLOW}: {GREEN}https://github.com/K3ysTr0K3R")
-	print(f"{YELLOW}[{BLUE}!!!{YELLOW}] {BLUE}Instagram {YELLOW}: {GREEN}jaredbrts175")
+	print(f"{YELLOW}[{BLUE}!!!{YELLOW}] {BLUE}Instagram {YELLOW}: {GREEN}1_k3ystr0k3r_1")
 	print(f"{YELLOW}[{BLUE}!!!{YELLOW}] {BLUE}Coded By  {YELLOW}: {GREEN}K3ysTr0K3R")
 	print("")
 banner()
